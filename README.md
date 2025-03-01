@@ -1,4 +1,4 @@
-👨🏿‍💻 Hy, my name is Natasha Queiroz
+👨🏿‍💻 Hy, my name is Jorge Luiz
  **`Desenvolvedor`**
 
 Sou desenvolvedor Front-End Junior
