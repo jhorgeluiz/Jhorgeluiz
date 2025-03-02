@@ -1,11 +1,11 @@
-# 👨🏿‍💻 Hy, my name is Jorge Luiz
- **`Desenvolvedor`**
+# 👨🏿‍💻 Olá, me chamo Jorge Luiz
+ **`Desenvolvedor Front-End Junior `**
 
-Sou desenvolvedor Front-End Junior
+ Moro na cidade de Fortaleza, tenho 31 anos, sou discente do terceiro semestre de Análise e Desenvolvimento de Sistemas.
 
  ---
 
- <img 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -67,6 +67,15 @@ Sou desenvolvedor Front-End Junior
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -83,8 +92,8 @@ Sou desenvolvedor Front-End Junior
 />
 <img 
     align="left" 
-    alt="Figma"
-    title="Figma" 
+    alt="PowerBI"
+    title="PowerBI" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_power_bi-512.png" 
@@ -93,5 +102,22 @@ Sou desenvolvedor Front-End Junior
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jhorgeluiz&show_icons=true&theme=dracula&locale=pt-br" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhorgeluiz&theme=dracula&custom_title=Tecnologias&langs_count=9" 
+/>
 
 
