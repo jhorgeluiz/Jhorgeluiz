@@ -1,5 +1,4 @@
 👨🏿‍💻 Hy, my name is Jorge Luiz
-
  **`Desenvolvedor`**
 
 Sou desenvolvedor Front-End Junior
@@ -47,6 +46,15 @@ Sou desenvolvedor Front-End Junior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="DELPHI" 
+    title="DELPHI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373548/delphi.svg" 
+/>
+
 
 <img 
     align="left" 
@@ -65,7 +73,22 @@ Sou desenvolvedor Front-End Junior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_power_bi-512.png" 
+/>
 
 
 <br/>
