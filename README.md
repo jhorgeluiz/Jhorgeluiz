@@ -1,7 +1,7 @@
 # 👨🏿‍💻 Olá, me chamo Jorge Luiz
  **`Desenvolvedor Front-End Junior `**
 
- Moro na cidade de Fortaleza, tenho 31 anos, sou discente do terceiro semestre de Análise e Desenvolvimento de Sistemas.
+ Moro em Fortaleza, tenho 33 anos, sou discente do quarto semestre de Análise e Desenvolvimento de Sistemas.
 
  ---
 
